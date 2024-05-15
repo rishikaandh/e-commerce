@@ -51,3 +51,8 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+
+
+![image](https://github.com/rishikaandh/e-commerce/assets/119720483/b25b09dd-8f37-4f11-a88b-026d4b6bb776)
+
