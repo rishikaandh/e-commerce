@@ -27,20 +27,6 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 - NodeJS
 - ExpressJS
 
-## Images
-
-![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Stat1_asehhd.png)
-![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Stat2_tw25cm.png)
-![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682956688/Stat3_rslfzi.png)
-![Orders](https://res.cloudinary.com/dxguqzge7/image/upload/v1682956689/Orders_cyfzkp.png)
-![Users](https://res.cloudinary.com/dxguqzge7/image/upload/v1682956689/Users_nxx1cs.png)
-![HomePage](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Home_bcr44v.png)
-![Products](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853695/Products_vxf8pr.png)
-![Product](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Product_tnba6w.png)
-![Payment](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Payment_xrucd9.png)
-![Cart](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Cart_zpzmwr.png)
-![UserProfile](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/User_lyfday.png)
-
 ## Tech Stack
 
 - ReactJS
@@ -52,7 +38,7 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-
+##Images
 
 ![image](https://github.com/rishikaandh/e-commerce/assets/119720483/b25b09dd-8f37-4f11-a88b-026d4b6bb776)
 
